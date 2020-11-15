@@ -1,0 +1,2 @@
+c_shift_ram_7.vhd,vhdl,xil_defaultlib,../../../../chuan_new.srcs/sources_1/ip/c_shift_ram_7/sim/c_shift_ram_7.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

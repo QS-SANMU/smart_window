@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Nov 15 20:24:10 2020
+# Process ID: 16840
+# Current directory: C:/smart_window/smart_window/chuan_new
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14976 C:\smart_window\smart_window\chuan_new\chuan_new.xpr
+# Log file: C:/smart_window/smart_window/chuan_new/vivado.log
+# Journal file: C:/smart_window/smart_window/chuan_new\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/smart_window/smart_window/chuan_new/chuan_new.xpr
+reset_project
